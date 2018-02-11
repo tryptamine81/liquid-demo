@@ -1,0 +1,11 @@
+{
+    "name": "trypta/liquid-demo-master",
+    "description": "Description of project liquid-demo-master.",
+    "authors": [
+        {
+            "name": "Sam Jones",
+            "email": "jonesy@cityvinyl.co.uk"
+        }
+    ],
+    "require": {}
+}
